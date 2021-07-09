@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ui-nubank-clone-serratec",
+    "slug": "ui-nubank-clone-serratec",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ui-nubank-clone-serratec"
+}
